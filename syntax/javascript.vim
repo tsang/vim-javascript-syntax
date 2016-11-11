@@ -293,6 +293,8 @@ if version >= 508 || !exists("did_javascript_syn_inits")
 
 	HiLink javaScriptPropietaryObjects      Constant
 
+	HiLink javaScript                       Normal
+
 	delcommand HiLink
 endif
 " end Highlight links }}}
